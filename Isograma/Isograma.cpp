@@ -32,7 +32,7 @@ int main(){
 
     cout<<"true";
 
-    // Cantidad de veces que se repitio dicha palabra (No es necesario , lo puse para ver errores)
+    // Cantidad de veces que se repitio dicha letra (No es necesario , lo puse para ver errores)
 
     for(int i=0 ; i<p.length(); i++){
 
